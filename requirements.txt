@@ -1,0 +1,3 @@
+WebOb
+Paste
+webapp2==3.0.0b1

@@ -1,0 +1,9 @@
+# files
+.gcloudignore
+.hgignore
+*.pyc
+
+# directories
+.hg/
+env/
+__pycache__/
