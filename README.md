@@ -27,4 +27,4 @@ Then run the gcloud SDK shortcut to set up a temporary local GAE instance suppor
 
 ### Author
 
-- [Fili Wiese](https://fili.org/) 
+- [Fili Wiese](https://fili.com/) 
